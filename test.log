@@ -1,0 +1,39 @@
+2022/05/18 17:16:59 start
+2022/05/18 17:16:59 pool: go routine started
+2022/05/18 17:16:59 wait: task 1 started
+2022/05/18 17:17:01 wait: task 2 started
+2022/05/18 17:17:02 wait: task 3 started
+2022/05/18 17:17:03 wait: task 1 ended
+2022/05/18 17:17:03 pool: wait ended signal, id: 1
+2022/05/18 17:17:04 wait: task 4 started
+2022/05/18 17:17:05 wait: task 2 ended
+2022/05/18 17:17:05 pool: wait ended signal, id: 2
+2022/05/18 17:17:05 wait: task 5 started
+2022/05/18 17:33:34 start
+2022/05/18 17:33:34 pool: go routine started
+2022/05/18 17:33:34 wait: task 1 started
+2022/05/18 17:33:35 wait: task 2 started
+2022/05/18 17:33:37 wait: task 3 started
+2022/05/18 17:33:38 wait: task 1 ended
+2022/05/18 17:33:38 pool: wait ended signal, id: 1
+2022/05/18 17:33:38 wait: task 4 started
+2022/05/18 17:33:39 wait: task 2 ended
+2022/05/18 17:33:39 pool: wait ended signal, id: 2
+2022/05/18 17:33:40 wait: task 5 started
+2022/05/18 17:33:41 wait: task 3 ended
+2022/05/18 17:33:41 pool: wait ended signal, id: 3
+2022/05/18 17:33:41 wait: task 6 started
+2022/05/18 17:33:42 wait: task 4 ended
+2022/05/18 17:33:42 pool: wait ended signal, id: 4
+2022/05/18 17:33:43 ended, start cleanup
+2022/05/18 17:33:43 pool: kill signal, cleanup start
+2022/05/18 17:33:43 wait: task 7 started
+2022/05/18 17:33:44 wait: task 5 ended
+2022/05/18 17:33:44 wait: task 8 started
+2022/05/18 17:33:45 wait: task 6 ended
+2022/05/18 17:33:46 wait: task 9 started
+2022/05/18 17:33:47 wait: task 7 ended
+2022/05/18 17:33:47 wait: task 10 started
+2022/05/18 17:33:48 wait: task 8 ended
+2022/05/18 17:33:50 wait: task 9 ended
+2022/05/18 17:33:51 wait: task 10 ended
