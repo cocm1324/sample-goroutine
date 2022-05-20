@@ -9,7 +9,7 @@ import (
 	"syscall"
 	"time"
 
-	"example/thread/pkg/pool"
+	"github.com/cocm1324/sample-goroutine/pkg/pool"
 )
 
 func main() {

@@ -1,3 +1,3 @@
-module example/thread
+module github.com/cocm1324/sample-goroutine
 
-go 1.17
+go 1.18

@@ -5,7 +5,7 @@ import (
 	"log"
 	"time"
 
-	"example/thread/pkg/task"
+	"github.com/cocm1324/sample-goroutine/pkg/task"
 )
 
 const DONE_BUFFER = 5
